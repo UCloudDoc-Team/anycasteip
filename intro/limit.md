@@ -1,6 +1,4 @@
-[前往 Github](https://github.com/UCloudDocs/UCloud-document/tree/master/network/ulb)
-
-{{indexmenu_n>9}}
+ {{indexmenu_n>9}}
 
 # 使用限制
 
