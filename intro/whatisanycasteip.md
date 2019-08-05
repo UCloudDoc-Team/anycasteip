@@ -1,5 +1,3 @@
-[前往 Github](https://github.com/UCloudDocs/UCloud-document/tree/master/network/ulb)
-
 {{indexmenu_n>1}}
 
 # 什么是AnycastEIP
