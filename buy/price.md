@@ -2,11 +2,11 @@
 
 # 产品定价
 
-## AnycastEIP为预付费模式。
+AnycastEIP为预付费模式。
 
 ### AnycastEIP地址费用
 
-地址费用免费
+AnycastEIP地址费用免费。
 
 ### AnycastEIP带宽费用
 
@@ -14,4 +14,4 @@
 
 ### 计费示例
 
-购买一个AnycastEIP，带宽设置为10Mbps，则月单价为10Mbps*400元／Mbps=4000元。
+购买一个AnycastEIP，带宽设置为10Mbps，则月单价为10Mbps\*400元／Mbps=4000元。
