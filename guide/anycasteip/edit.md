@@ -12,7 +12,7 @@
 
 1，AnycastEIP列表页，点击名称列的**修改名称及备注。**
 
-![]()
+![](/images/editanycasteip01.png)
 
 ### AnycastEIP概览页
 
@@ -22,15 +22,13 @@
 
 3，基本信息卡片，点击资源名称后的**编辑图标**。
 
-![](/images/editanycasteip01.png)
+![](/images/editanycasteip02.png)
 
 ### 配置说明
 
 1，**资源名称**，必填项，不修改默认为当前的名称。
 
 2，**备注**，非必填项，不填写即为空。
-
-![](/images/editanycasteip01.png)
 
 ## 更改业务组
 
