@@ -9,7 +9,7 @@
 2，点击**申请AnycastEIP**，进行实例创建。
 
 3，申请AnycastEIP弹窗中，若需绑定防护包，可选择现有防护包，或前往全球清洗页面进行创建后绑定。
-![image](/images/guide/anycastclean01.png)
+![image](/images/anycastclean01.png)
 
 
 
