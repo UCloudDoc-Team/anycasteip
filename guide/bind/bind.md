@@ -4,7 +4,7 @@
 AnycastEIP支持使用同一个IP地址在多Region进行服务部署，即可将同一个AnycastEIP绑定在多个Region的云资源上。
 
 ## 操作步骤
-1，进入基础网络 UNet，AnycastEIP标签页，选定需要解绑资源的AnycastEIP实例，进入详情-资源管理。
+1，进入**基础网络 UNet**，**AnycastEIP**标签页，选定需要解绑资源的AnycastEIP实例，进入**详情-资源管理**。
 
 2，点击**绑定资源**
 
