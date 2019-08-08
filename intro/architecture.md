@@ -16,6 +16,8 @@
 * 普通EIP：单Region宣告，全球玩家跨Region需要通过公网访问。延时高，抖动大。
 * AnycastEIP：多Region宣告，全球玩家用户就近接入UCloud骨干网，并通过UCloud专线完成传输。延时低、抖动小。
 
+![](/images/intro/intro01.png)
+
 ## 全球加速
 #### 出向流量
 * 源机房的核心通过默认路由出本地公网
