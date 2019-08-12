@@ -1,5 +1,6 @@
 {{indexmenu_n>1}}
 
+# 绑定资源
 AnycastEIP支持在多个Region部署服务，即可将同一个地址绑定多个Region的资源。
 
 ## 操作步骤
