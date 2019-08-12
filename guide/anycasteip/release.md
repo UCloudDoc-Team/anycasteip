@@ -1,6 +1,6 @@
 {{indexmenu_n>3}}
 
-# 释放AnycastEIP
+# 释放
 请先解绑所有资源，再进行AnycastEIP释放。
 
 ## 操作步骤
