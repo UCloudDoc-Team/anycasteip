@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-# 申请AnycastEIP
+# 申请
 
 ## 操作步骤
 
