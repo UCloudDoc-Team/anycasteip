@@ -3,7 +3,7 @@
 # 绑定
 防护包是基于Anycast的流量调度，对DDoS流量进行全球分布式清洗，能够有效保障业务安全。申请AncyastEIP时，可选择绑定现有的防护包。
 
-[查看产品详细简介](https://docs.ucloud.cn/security/uanycastclean/index)。
+查看[Anycast全球清洗](https://docs.ucloud.cn/security/uanycastclean/index)产品详细简介。
 
 ## 操作步骤
 1，进入**基础网络 UNet**页面，**AnycastEIP**标签页。
