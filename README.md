@@ -33,4 +33,3 @@ AnycastEIP，利用UCloud的全球BGP宣告能力、覆盖全球的十余个海�
     * [AnycastEIP绑定多地域资源时如何限速？](/anycasteip/faq/bandwidth)
 * [新功能发布记录](/anycasteip/newfunctions)
     
-        
