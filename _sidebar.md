@@ -19,9 +19,6 @@
         * [解绑资源](/anycasteip/guide/bind/unbind)
     * 健康检查
         * [查看详情](/anycasteip/guide/healthcheck/describe)
-    * 防护包
-        * [绑定](/anycasteip/guide/anycastclean/bindanycastclean)
-        * [查看详情](/anycasteip/guide/anycastclean/describe)
     * 监控指标
         * [获取监控指标](/anycasteip/guide/monitor/getmonitoring)
 * 常见问题
