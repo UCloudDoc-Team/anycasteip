@@ -29,7 +29,7 @@ AnycastEIP，利用UCloud的全球BGP宣告能力、覆盖全球的十余个海�
         * [获取监控指标](/anycasteip/guide/monitor/getmonitoring)
 * 常见问题
     * [AnycastEIP与普通EIP有什么区别？](/anycasteip/faq/different)
-    * [UNet下AnycastEIP与全球清洗下AnycastEIP有什么区别？](/anycasteip/faq/anycasteip&usec_anycast.md)
+    * [AnycastEIP与UAnycastClean有什么区别？](/anycasteip/faq/anycasteip&usec_anycast.md)
     * [AnycastEIP绑定多地域资源时如何限速？](/anycasteip/faq/bandwidth)
 * [新功能发布记录](/anycasteip/newfunctions)
     
