@@ -1,6 +1,6 @@
 # AnycastEIP
 
-AnycastEIP，利用UCloud的全球BGP宣告能力、覆盖全球的十余个海外节点以及节点间的专线资源，提供全球网络加速。通过IP传输的质量优化、多入口就近接入，减少公网延时抖动带来的影响，提升EIP的全球使用体验。（此外，可利用AnycastEIP整合UCloud全球清洗资源，利用全球分布式清洗，抵御DDoS攻击，具体见[全球清洗 UAnycastClean](https://docs.ucloud.cn/uantiddos/uanycastclean/overview) ）。
+AnycastEIP，利用UCloud的全球BGP宣告能力、覆盖全球的十余个海外节点以及节点间的专线资源，提供全球网络加速。通过IP传输的质量优化、多入口就近接入，减少公网延时抖动带来的影响，提升EIP的全球使用体验。（此外，可利用AnycastEIP整合UCloud全球清洗资源，利用全球分布式清洗，抵御DDoS攻击，具体见[全球清洗 UAnycastClean]([https://docs.ucloud.cn/uantiddos/uanycastclean/overview](https://docs.ucloud.cn/uantiddos/uads-unlimited/concepts/overview)) ）。
 
 * 产品简介
     * [什么是AnycastEIP](/anycasteip/intro/whatisanycasteip)
